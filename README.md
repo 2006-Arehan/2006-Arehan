@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **arehanjain@gmail.com** For Collaboration/Project or Anyth
  
  🤔 **I’m looking for help with:** Scalable backend systems, DevOps practices, and real-world software engineering projects.
  
- 💬 **Ask me about:** Java, Spring Boot, MySQL, SQL, DSA, LeetCode, and Backend Development.
+ 💬 **Ask me about:** Java, Python , PostgreSQL, SQL, DSA, LeetCode, and Backend Development.
  
  📫 **How to reach me:** Connect with me through GitHub or LinkedIn.
  
